@@ -1,0 +1,1 @@
+export {FeedbackOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient} from "./FeedbackOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient.ts";
