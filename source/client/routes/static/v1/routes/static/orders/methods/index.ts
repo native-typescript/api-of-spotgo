@@ -1,0 +1,1 @@
+export {MethodsOfOrdersOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient} from "./MethodsOfOrdersOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient.ts";

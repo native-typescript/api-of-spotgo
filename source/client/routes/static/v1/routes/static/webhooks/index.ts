@@ -1,0 +1,1 @@
+export {WebhooksOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient} from "./WebhooksOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient.ts";

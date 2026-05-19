@@ -1,0 +1,1 @@
+export {DocumentsOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient} from "./DocumentsOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient.ts";
